@@ -1,0 +1,15 @@
+[
+    {
+        "header": {
+            "title": "Example",
+            "date": "2026-03-08",
+            "version": "0.0.1",
+            "iconPath": "images/headers/thisIcon",
+            "headerPath": "images/headers/thisHeader"
+        },
+        "body": [
+            {"type": "image", "data": [["image1", "image2"]]},
+            {"type": "image", "data": ["text"]}
+        ]
+    }
+]
