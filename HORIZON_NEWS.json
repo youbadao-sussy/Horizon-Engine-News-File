@@ -8,8 +8,8 @@
             "headerPath": "images/headers/thisHeader"
         },
         "body": [
-            {"type": "image", "data": [["image1", "image2"]]},
-            {"type": "image", "data": ["text"]}
+            {"type": "image", "data": ["image1", "image2"]},
+            {"type": "image", "data": "text"}
         ]
     }
 ]
